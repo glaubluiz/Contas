@@ -1,4 +1,0 @@
-# CLI App
-
-## Descrição
-
